@@ -40,7 +40,4 @@ In the command line enter:
 npm run test
 ```
 
-## Deployed Application
-
-[Node Employee Directory](https://smserpa.github.io/node-employee-directory/)
 
