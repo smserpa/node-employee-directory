@@ -42,5 +42,5 @@ npm run test
 
 ## Deployed Application
 
-
+[Node Employee Directory](https://smserpa.github.io/node-employee-directory/)
 
